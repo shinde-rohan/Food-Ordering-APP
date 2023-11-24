@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "495613568135",
+    "firebase_url": "https://foodorderapp-28c06-default-rtdb.firebaseio.com",
+    "project_id": "foodorderapp-28c06",
+    "storage_bucket": "foodorderapp-28c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495613568135:android:f62481434ab1352c3d8422",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495613568135-69s2eiuuuk2h9v6i3ktl4tmm5cas3bg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodpanel",
+            "certificate_hash": "995fcec65e60ab018e6ef27152f9f348edc54f59"
+          }
+        },
+        {
+          "client_id": "495613568135-lpak819rilehlo8agpqgrl5577prt5k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6kpymYDmwL3rBCsfpktKfvwl9SZOzZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495613568135-lpak819rilehlo8agpqgrl5577prt5k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495613568135:android:4b931f57468bbac53d8422",
+        "android_client_info": {
+          "package_name": "com.example.foodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495613568135-lpak819rilehlo8agpqgrl5577prt5k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6kpymYDmwL3rBCsfpktKfvwl9SZOzZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495613568135-lpak819rilehlo8agpqgrl5577prt5k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
